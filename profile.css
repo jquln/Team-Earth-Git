@@ -1,0 +1,39 @@
+html {
+    background-image: url(https://media.istockphoto.com/photos/flat-earth-view-myths-and-legends-discworld-a-parallel-universe-picture-id1219896207) ;
+}
+
+.container{
+    background-color: white;
+    justify-content: center;
+    display:inline-block;
+    align-items: center;
+    margin-left: 25%;
+    margin-right:20%;
+    margin-top: 10%;
+}
+
+.card{
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    max-width: 1200px;
+    margin: auto;
+    display:inline-block;
+    background-color: #27FD0C;
+    border-radius: 5px;
+}
+
+img{
+    border-radius:55%;
+}
+
+.title {
+    color: black;
+    font-size: 50px;
+  }
+
+  p {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
